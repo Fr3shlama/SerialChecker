@@ -18,4 +18,4 @@ Download the .exe and run it as administrator.
 
 ## License
 
-This project is licensed - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed - see the [LICENSE.md](LICENSE) file for details
