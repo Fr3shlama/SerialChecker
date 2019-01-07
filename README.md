@@ -1,6 +1,6 @@
 # SerialChecker
 
-A simple Programm to detect wich Serialports are connected and wich are open
+A simple programm to detect wich serialports are connected and wich are open
 
 ### What does it do?
 
@@ -10,12 +10,12 @@ I build this application for debug purposes to see if my APi is using certian po
 
 ### Installing
 
-Download the .exe and Run it.
+Download the .exe and run it as administrator.
 
 ## Authors
 
-* **Fr3shlama** - *Creator, Idea and desingner* - [Website](https://lama.host)
+* **Fr3shlama** - *Creator, idea and desingner* - [Website](https://lama.host)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed - see the [LICENSE.md](LICENSE) file for details
