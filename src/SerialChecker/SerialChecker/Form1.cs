@@ -11,7 +11,8 @@ namespace SerialChecker
 
         public SerialChecker()
         {
-            InitializeComponent();    
+            InitializeComponent();
+            count.Text = "Click "+"Update";
         }
 
         new void Update()
@@ -20,6 +21,8 @@ namespace SerialChecker
             var portNames = SerialPort.GetPortNames();
             int PortCounter = 0;
             this.ListBox.Items.Clear();
+
+            count.Text = "Count: " + Convert.ToString(PortCounter);
 
             foreach (var port in portNames)
             {
@@ -48,7 +51,6 @@ namespace SerialChecker
         private void button1_Click(object sender, EventArgs e)
         {
             Update();
-            if (isLoop.Checked) MessageBox.Show("You just found a debug feauture!");
         }
    
 
