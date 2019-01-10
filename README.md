@@ -14,7 +14,7 @@ Download the .exe and run it as administrator.
 
 ## Authors
 
-* **Fr3shlama** - *Creator, idea and desingner* - [Website](https://lama.host)
+* **Fr3shlama** - *Creator, idea and  designer - [Website](https://lama.host)
 
 ## License
 
