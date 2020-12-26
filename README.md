@@ -1,12 +1,10 @@
 # SerialChecker
 
-A simple programm to detect wich serialports are connected and wich are open
+A simple application to detect wich serialports are being used
 
 ### What does it do?
 
-This programm will search for all connected Serial devices and will try to open them. If they are in use (open) the name of the port will have a checked box on its left side.
-
-I build this application for debug purposes to see wich Serialports my API can acess
+It will check wich serial ports are in use.
 
 ### Installing
 
